@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">quiz</string>
+    <string name="click_button">Submit</string>
+    <string name="color_hint">Enter a hexcode for your favorite color</string>
+    <string name="name_hint">What is your name?</string>
+</resources>
